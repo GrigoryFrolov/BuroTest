@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('../fonts/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '21Cent-Bold';
+    src:url('../fonts/21Cent-Bold.otf') format('otf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '21Cent';
+    src: url('../fonts/21Cent.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PostNoBillsJaffnaBold';
+    src: url('../fonts/PostNoBillsJaffna-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
